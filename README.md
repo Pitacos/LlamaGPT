@@ -81,7 +81,21 @@ Para un rendimiento óptimo, es necesario conectarse a un servidor que disponga 
 8. **Licencia**
  
   
-   Este proyecto está bajo la Licencia Comercial de META. Consulta el archivo LICENSE para más detalles.
+   Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+
+   Nota: Este proyecto también utiliza modelos de Llama 2 de Meta, los cuales están disponibles bajo una licencia comercial. Al utilizar este proyecto, estás de acuerdo con cumplir con         los términos y condiciones de la licencia de Llama 2, la política de uso aceptable y la política de privacidad de Meta.
+    
+    Modelos disponibles:
+    
+    - Llama-2-7b
+    - Llama-2-7b-chat
+    - Llama-2-13b
+    - Llama-2-13b-chat
+    - Llama-2-70b
+    - Llama-2-70b-chat
+   
+    Con cada descarga del modelo, recibirás una copia de la Licencia y la Política de Uso Aceptable.
+    Puedes encontrar más información en el [repositorio de GitHub de Llama 2](https://github.com/facebookresearch/llama).
 
 
 8. **Contacto**
