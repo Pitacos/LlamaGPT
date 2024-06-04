@@ -14,13 +14,16 @@ Para un rendimiento óptimo, es necesario conectarse a un servidor que disponga 
 
 1. **Clonar el Repositorio**
 
+
     ```bash
       git clone https://github.com/Pitacos/LlamaGPT.git
       cd LlamaGPT
     ```
 
 3. **Crear y Activar el Entorno Virtual**
-Es necesario crear un entorno virtual llamado `LlamaGPT`:
+
+
+    Es necesario crear un entorno virtual llamado `LlamaGPT`:
 
     ```bash
        python3 -m venv LlamaGPT
@@ -28,14 +31,18 @@ Es necesario crear un entorno virtual llamado `LlamaGPT`:
     ```    
 
 4. **Instalar las Dependencias**
-  Asegúrate de estar dentro del entorno virtual e instala las dependencias requeridas:
+
+
+    Asegúrate de estar dentro del entorno virtual e instala las dependencias requeridas:
 
     ```bash
         pip install -r requirements.txt
     ```
 
-5. **Estructura del Proyecto**
-Dentro del entorno virtual LlamaGPT, asegúrate de tener la siguiente estructura de carpetas:
+6. **Estructura del Proyecto**
+
+
+    Dentro del entorno virtual LlamaGPT, asegúrate de tener la siguiente estructura de carpetas:
 
         LlamaGPT/
         ├── source/            # Archivos del proyecto que se van a transmitir
@@ -46,35 +53,38 @@ Dentro del entorno virtual LlamaGPT, asegúrate de tener la siguiente estructura
              └── states/        # Estado del LLM tras su creación
         
 6. **Uso**
-  Para iniciar el proyecto, ejecuta la interfaz del proyecto y disfruta de la experiencia.
+ 
+  
+      Para iniciar el proyecto, ejecuta la interfaz del proyecto y disfruta de la experiencia.
   
     ```bash
       python source/GUI.py
     ```
 
 6. **Contribución**
-      Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
+
+
+    Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
       
-      Haz un fork del proyecto.
+      - Haz un fork del proyecto.
+   
+      - Crea una nueva rama (git checkout -b feature-nueva-funcionalidad).
       
-      
-      Crea una nueva rama (git checkout -b feature-nueva-funcionalidad).
-      
-      
-      Realiza tus cambios y haz commit (git commit -am 'Añadir nueva funcionalidad').
-      
-      
-      Envía tus cambios a tu fork (git push origin feature-nueva-funcionalidad).
-      
-      
-      Abre un Pull Request en el repositorio original.
+      - Realiza tus cambios y haz commit (git commit -am 'Añadir nueva funcionalidad').
+   
+      - Envía tus cambios a tu fork (git push origin feature-nueva-funcionalidad).
+   
+      - Abre un Pull Request en el repositorio original.
 
 
 
-
-7. **Licencia**
-  Este proyecto está bajo la Licencia Comercial de META Consulta el archivo LICENSE para más detalles.
+8. **Licencia**
+ 
+  
+   Este proyecto está bajo la Licencia Comercial de META Consulta el archivo LICENSE para más detalles.
 
 
 8. **Contacto**
-  Para más información, puedes contactar conmigo a través de mi correo electrónico (`"luisdiezpita@gmail.com"`) o visitar mi perfil de GitHub.
+
+
+   Para más información, puedes contactar conmigo a través de mi correo electrónico (`"luisdiezpita@gmail.com"`) o visitar mi perfil de GitHub.
