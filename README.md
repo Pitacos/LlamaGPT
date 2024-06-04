@@ -81,7 +81,7 @@ Para un rendimiento óptimo, es necesario conectarse a un servidor que disponga 
 8. **Licencia**
  
   
-   Este proyecto está bajo la Licencia Comercial de META Consulta el archivo LICENSE para más detalles.
+   Este proyecto está bajo la Licencia Comercial de META. Consulta el archivo LICENSE para más detalles.
 
 
 8. **Contacto**
