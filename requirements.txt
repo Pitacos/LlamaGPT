@@ -1,0 +1,10 @@
+psutil
+transformers
+torch==2.0.1
+cloudpickle
+accelerate
+ttkthemes
+PyMuPDF
+paramiko
+scp
+pickle
