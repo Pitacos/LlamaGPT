@@ -8,6 +8,7 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 import time
 
 class WelcomeTab(ttk.Frame):
+    
     def __init__(self, master, switch_callback):
         super().__init__(master)
 
