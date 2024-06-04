@@ -55,8 +55,12 @@ Para un rendimiento óptimo, es necesario conectarse a un servidor que disponga 
 6. **Uso**
  
   
-      Para iniciar el proyecto, ejecuta la interfaz del proyecto y disfruta de la experiencia.
-  
+      Para iniciar el proyecto, ejecuta la interfaz del proyecto desde tu oredenador local, despúes de haber configurado las credenciales de tu servidor
+       en el archivo GUI.py, y disfruta de la experiencia.
+   
+   ```python
+      self.ssh_executor = SSHScriptExecutor(hostname='Host', port=22, username='user', password='password')
+    ```
     ```bash
       python source/GUI.py
     ```
